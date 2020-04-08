@@ -14,7 +14,10 @@ Pay attention to the state from which you start: Often, |0⟩ is not a good star
 
 Get used to working with the Qiskit API documentation for the figuring out how to use the gates. (E.g., https://qiskit.org/documentation/stubs/qiskit.circuit.QuantumCircuit.u3.html)
 
-#### Smooth visualizations with fixed parameters
+### Submission
+The procedure for submitting your homework is the same as before. (Fork and pull request; create a sub-folder of this folder for your stuff.)
+
+### Smooth visualizations with fixed parameters
 
 IBM has beautiful visualizations of some of the gates here:
 https://quantum-computing.ibm.com/docs/circ-comp/q-gates
