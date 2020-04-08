@@ -10,7 +10,7 @@ Using your code, prepare two visualizations or animations to present to the othe
 
 Note that these gates have parameters, and your visualization should help the other groups (and yourself) understand what the gate does, when the values of the parameters vary.
 
-Pay attention to the state from which you start: Often, |0⟩ is not a good starting point, because it doesn't change with changing the parameter (in other words, it's an eigenvector of the unitary operator). Consider several states to pick a good one. Plugging 3 random numbers between 0 and 2π as the parameters into U3 gives a random state.
+Pay attention to the state from which you start: Often, |0⟩ is not a good starting point, because it doesn't change with changing the parameter (in other words, it's an eigenvector of the unitary operator). Consider several states to pick a good one.
 
 Get used to working with the Qiskit API documentation for the figuring out how to use the gates. (E.g., https://qiskit.org/documentation/stubs/qiskit.circuit.QuantumCircuit.u3.html)
 
