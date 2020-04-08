@@ -4,7 +4,7 @@ Using the state vector simulator and the functions for plotting Bloch vectors, w
 
 Using your code, prepare two visualizations or animations to present to the other groups.  For your two visualizations, pick two gates out of the following list of five:
 
-1. One parameter: Rx, Ry, Rz
+1. One parameter: U1, Rx, Ry, Rz
 1. Two parameters: U2
 1. Three parameters: U3
 
