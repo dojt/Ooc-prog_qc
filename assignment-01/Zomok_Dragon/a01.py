@@ -26,7 +26,3 @@ def make_ghz3(shots, device):
     job = execute(qc, sim_backend, shots=shots)
     return job.result()
 
-# in the assignment it says 
-# "The function should return an object of the class Result" 
-# I am returning the result but I think 
-# the result is useless without having QuantumCircuit qc!

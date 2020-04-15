@@ -33,6 +33,3 @@ def make_ghz3_ibmq(shots, device):
     job = execute(qc, backend=qcom, shots=shots)
     return job.result()
 
-# Same as the simulator version:
-# I am returning the result as assignment asks but I think
-# the result is useless without having QuantumCircuit qc!
